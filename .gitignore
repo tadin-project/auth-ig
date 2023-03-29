@@ -1,0 +1,5 @@
+# Environment variable
+.env
+
+# NPM
+node_modules
